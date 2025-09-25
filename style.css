@@ -22,7 +22,12 @@ html, body {
     color: #f4f4f4;
     background: #111;
   }
-  
+  img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
   h1, h2, h3 {
     font-family: 'Georgia', serif;
     color: #d4af37; /* Gold */
@@ -290,3 +295,4 @@ html, body {
   }
 
   
+
